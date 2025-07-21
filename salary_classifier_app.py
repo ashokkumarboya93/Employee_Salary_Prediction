@@ -17,8 +17,8 @@ st.set_page_config(page_title="💸 Employee Salary Predictor", page_icon="💸"
 # ✅ Custom Theme Styling
 st.markdown("""
 <style>
-body { background-color: #d0e7ff; color: #0a2540; font-family: 'Segoe UI', sans-serif; }
-.stApp { background-color: #d0e7ff; }
+body { background-color: lightblue; color: #0a2540; font-family: 'Segoe UI', sans-serif; }
+.stApp { background-color:lightblue; }
 
 /* Input Styling */
 .stNumberInput > div > input, .stSelectbox > div > div, .stDataFrame {
